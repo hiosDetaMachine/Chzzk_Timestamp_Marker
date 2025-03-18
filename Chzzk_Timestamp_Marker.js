@@ -21,7 +21,7 @@
     let markers = JSON.parse(localStorage.getItem('chzzk_markers') || '[]');
     let container;
     let isVisible = false;
-    let delay = 0;
+    let delay = 30;
 
     function createUI() {
 
