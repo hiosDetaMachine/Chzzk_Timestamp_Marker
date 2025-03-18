@@ -2,18 +2,19 @@
 // @name         Chzzk Timestamp Marker
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  치치직 라이브 방송이나 다시보기를 보면서 편집점이나 다시보고 싶은 지점에 타임스탬프와 간단 설명을 저장합니다.
+// @description  치치직 라이브 방송이나 다시보기를 보면서 편집점이나 다시 보고 싶은 지점에 타임스탬프와 간단 설명을 저장합니다.
 // @author       hiosDetaMachine
 // @match        https://chzzk.naver.com/live*
 // @match        https://*.chzzk.naver.com/*
 // @run-at       document-start
 // @supportURL   https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/issues
 // @homepage     https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker
-// @downloadURL  https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/blob/main/Chzzk_Timestamp_Marker.js
-// @updateURL    https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/blob/main/Chzzk_Timestamp_Marker.js
+// @downloadURL  https://raw.githubusercontent.com/hiosDetaMachine/Chzzk_Timestamp_Marker/main/Chzzk_Timestamp_Marker.js
+// @updateURL    https://raw.githubusercontent.com/hiosDetaMachine/Chzzk_Timestamp_Marker/main/Chzzk_Timestamp_Marker.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/arrive/2.4.1/arrive.min.js
 // @grant        GM_addStyle
 // ==/UserScript==
+
 
 (function () {
     'use strict';
