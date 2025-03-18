@@ -9,8 +9,8 @@
 // @run-at       document-start
 // @supportURL   https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/issues
 // @homepage     https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker
-// @downloadURL  https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/blob/main/Chzzk%20Timestamp%20Marker.js
-// @updateURL    https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/blob/main/Chzzk%20Timestamp%20Marker.js
+// @downloadURL  https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/blob/main/ChzzkTimestampMarker.js
+// @updateURL    https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/blob/main/ChzzkTimestampMarker.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/arrive/2.4.1/arrive.min.js
 // @grant        GM_addStyle
 // ==/UserScript==
