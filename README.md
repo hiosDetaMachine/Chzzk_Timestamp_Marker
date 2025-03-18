@@ -35,6 +35,7 @@ Chrome - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dh
 Tampermonkey 확장 프로그램 설치 후, 아래 링크를 클릭하세요. 팝업 창에서 "설치" 버튼을 눌러 스크립트를 설치합니다.
 
 https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/blob/main/Chzzk_Timestamp_Marker.js
+https://raw.githubusercontent.com/hiosDetaMachine/Chzzk_Timestamp_Marker/main/Chzzk_Timestamp_Marker.js
 
 
 > 주의: 본 스크립트를 설치 및 사용하며 발생하는 브라우저 과부하로 인한 응답 없음, 뻗음으로 인한 데이터 손실이나 기타 문제에 대해 개발자는 책임지지 않습니다(보고된 문제는 없음).
