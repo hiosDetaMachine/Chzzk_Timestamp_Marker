@@ -36,9 +36,16 @@ Tampermonkey 확장 프로그램 설치 후, 아래 링크를 클릭하세요. �
 
 https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/main/Chzzk_Timestamp_Marker.js
 
-<a href="https://raw.githubusercontent.com/hiosDetaMachine/Chzzk_Timestamp_Marker/main/Chzzk_Timestamp_Marker.js" target="_blank">
-  Tampermonkey 스크립트 설치하기
-</a>
+### 만약 다운로드가 되지 않는 경우
+
+1. Tampermonkey 확장 프로그램의 대시 보드 클릭
+![화면 캡처 2025-03-18 215938](https://github.com/user-attachments/assets/7dfc53fc-b150-47a3-b9a6-3d01db0fdf2f)
+
+2. 상단의 도구 탭을 클릭한 다음, 'Import from URL' 입력 칸에 아래 url을 입력하세요.
+https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/main/Chzzk_Timestamp_Marker.js
+   
+![화면 캡처 2025-03-18 220040](https://github.com/user-attachments/assets/3531d06c-0f9e-4c7a-91a9-0ab21cb3e064)
+
 
 
 > 주의: 본 스크립트를 설치 및 사용하며 발생하는 브라우저 과부하로 인한 응답 없음, 뻗음으로 인한 데이터 손실이나 기타 문제에 대해 개발자는 책임지지 않습니다(보고된 문제는 없음).
