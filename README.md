@@ -34,7 +34,7 @@ Chrome - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dh
 ## STEP 2. UserScript
 Tampermonkey 확장 프로그램 설치 후, 아래 링크를 클릭하세요. 팝업 창에서 "설치" 버튼을 눌러 스크립트를 설치합니다.
 
-https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/main/Chzzk_Timestamp_Marker.js
+https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/refs/heads/main/Chzzk_Timestamp_Marker.user.js
 
 <br>
 
@@ -47,7 +47,7 @@ https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/main/Chzzk_Timesta
 <br>
 
 2. 상단의 도구 탭을 클릭한 다음, 'Import from URL' 입력 칸에 아래 url을 입력하세요.
-https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/main/Chzzk_Timestamp_Marker.js
+https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/refs/heads/main/Chzzk_Timestamp_Marker.user.js
 
 <br>
    
