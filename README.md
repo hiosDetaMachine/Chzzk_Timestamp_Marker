@@ -14,7 +14,7 @@
   00:35:59 마커 생성 테스트
   00:51:47 마커 생성 예시
   ```
-- 단축키 'B'를 눌러 마커 생성 화면을 온오프 할 수 있습니다.
+- 단축키 'B'를 눌러 마커 생성 화면을 온오프 할 수 있습니다. 채팅창 입력이 활성화되어 단축키가 작동이 안될 경우, CTRL + B를 누르세요.
 - 단축키 'C'를 눌러 채팅창 입력을 활성화합니다.
 
 <br>
@@ -37,6 +37,7 @@ Tampermonkey 확장 프로그램 설치 후, 아래 링크를 클릭하세요. �
 https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/refs/heads/main/Chzzk_Timestamp_Marker.user.js
 
 <br>
+
 > 주의: 본 스크립트를 설치 및 사용하며 발생하는 브라우저 과부하로 인한 응답 없음, 뻗음으로 인한 데이터 손실이나 기타 문제에 대해 개발자는 책임지지 않습니다(보고된 문제는 없음).
 > 본 스크립트는 Tampermonkey 외의 스크립트 매니저에서는 정상 동작하지 않을 수 있습니다.
 
@@ -53,7 +54,7 @@ https://github.com/hiosDetaMachine/Chzzk_Timestamp_Marker/raw/refs/heads/main/Ch
 // 이 코드를 찾아 숫자를 변경하세요
 let delay = 0;
 ```
-- 다시보기에서 마커를 기록하려면 단축키 'B'를 사용해야 마커 생성 창을 열 수 있습니다. 다시 닫을 때는 BackSpace나 ctrl + b를 눌러 닫아주세요.
+- 다시보기에서 마커를 기록하려면 단축키 'B'를 사용해야 마커 생성 창을 열 수 있습니다. 다시 닫을 때는 BackSpace나 CTRL + B를 눌러 닫아주세요.
 - 스크립트 재배포, 2차 가공, 변형 모두 허용입니다.
 
 <br>
